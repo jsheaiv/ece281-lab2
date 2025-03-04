@@ -1,4 +1,3 @@
---+----------------------------------------------------------------------------
 --| 
 --| COPYRIGHT 2025 United States Air Force Academy All rights reserved.
 --| 
